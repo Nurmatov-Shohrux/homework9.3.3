@@ -1,0 +1,21 @@
+body {
+    background-image: url(./2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+* {
+    text-align: center;
+}
+
+.white {
+    color: white;
+}
+
+img {
+    border-radius: 300px;
+    width: 200px;
+    height: 250px;
+}
